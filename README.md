@@ -1,4 +1,4 @@
-# shiromino
+# shiromino - Nintendo Switch port
 
 ## Building
 Dependencies: SDL2 (version >= 2.0.5), SDL2_image, SDL2_mixer
